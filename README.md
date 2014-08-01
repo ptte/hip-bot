@@ -1,0 +1,4 @@
+hip-bot
+=======
+
+Hipchat bot
